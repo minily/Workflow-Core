@@ -26,3 +26,4 @@ D:\project\netCore\wordflow-core\WorkflowCore-Demo\obj\Debug\netcoreapp3.1\Workf
 D:\project\netCore\wordflow-core\WorkflowCore-Demo\obj\Debug\netcoreapp3.1\WorkflowCore-Demo.dll
 D:\project\netCore\wordflow-core\WorkflowCore-Demo\obj\Debug\netcoreapp3.1\WorkflowCore-Demo.pdb
 D:\project\netCore\wordflow-core\WorkflowCore-Demo\obj\Debug\netcoreapp3.1\WorkflowCore-Demo.genruntimeconfig.cache
+D:\project\netCore\wordflow-core\WorkflowCore-Demo\obj\Debug\netcoreapp3.1\WorkflowCore-Demo.csprojAssemblyReference.cache
