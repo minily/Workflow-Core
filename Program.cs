@@ -15,7 +15,7 @@ namespace WorkflowCore_Demo
             host.RegisterWorkflow<HelloWorldWorkflow>();
             host.Start();
 
-            // Workflow 的Id值
+            // Workflow 的Id值（开始工作）
             host.StartWorkflow("HelloWordId");
 
             Console.ReadLine();
